@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🛠️ I’m currently working on: An E-commerce Analytics Dashboard with React as well as a Personalized Product Recommendation Engine leveraging machine learning algorithms to deliver tailored product suggestions.
+🛠️ I’m currently working on: An AI-Powered Personal Finance Assistant.
 !<br>🌱 I’m currently learning: Deep learning techniques, reinforcement learning, and how to apply AI/ML solutions in real-world applications. I’m also exploring software engineering principles for high-performance computing.
 <!-- <br>⚡ Fun fact: I built a robot guidance system with 95% accuracy in obstacle avoidance and path-following using Assembly language, making it a fun project that taught me a lot about precision and efficiency in embedded systems.
 -->
